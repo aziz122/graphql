@@ -1,0 +1,7 @@
+pl\marcinkowalczyk\graphql\examples\dao\AuthorRepository.class
+pl\marcinkowalczyk\graphql\examples\model\Book.class
+pl\marcinkowalczyk\graphql\examples\graphql\GraphQLDataFetchers.class
+pl\marcinkowalczyk\graphql\examples\GraphQLJavaSpringExampleApplication.class
+pl\marcinkowalczyk\graphql\examples\model\Author.class
+pl\marcinkowalczyk\graphql\examples\dao\BookRepository.class
+pl\marcinkowalczyk\graphql\examples\graphql\GraphQLProvider.class

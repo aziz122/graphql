@@ -1,0 +1,20 @@
+{
+    bookById(id: "1") {
+        id
+        name
+    }
+    # query=%7BbookById%28id%3A%20"2"%29%20%7B%0A%20%20id%0A%20%20name%0A%7D%7D
+}
+
+{
+    books {
+        id
+        name
+        pageCount
+        author {
+            name
+        }
+    }
+    # books%20%7B%0A%20%20id%0A%20%20name%0A%20%20pageCount%0A%20%20author%20%7B%0A%20%20%20%20name%0A%20%20%7D%0A%7D
+
+}
