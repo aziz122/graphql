@@ -1,10 +1,11 @@
-package pl.marcinkowalczyk.graphql.examples.graphql;
+package fr.codeonce.graphql.config;
 
 import graphql.schema.DataFetcher;
 import org.springframework.stereotype.Component;
-import pl.marcinkowalczyk.graphql.examples.dao.AuthorRepository;
-import pl.marcinkowalczyk.graphql.examples.dao.BookRepository;
-import pl.marcinkowalczyk.graphql.examples.model.Book;
+
+import fr.codeonce.graphql.dao.AuthorRepository;
+import fr.codeonce.graphql.dao.BookRepository;
+import fr.codeonce.graphql.model.Book;
 
 @Component
 public class GraphQLDataFetchers {

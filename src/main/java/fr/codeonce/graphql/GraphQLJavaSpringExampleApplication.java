@@ -1,4 +1,4 @@
-package pl.marcinkowalczyk.graphql.examples;
+package fr.codeonce.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

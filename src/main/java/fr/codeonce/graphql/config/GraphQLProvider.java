@@ -1,4 +1,4 @@
-package pl.marcinkowalczyk.graphql.examples.graphql;
+package fr.codeonce.graphql.config;
 
 import com.google.common.base.Charsets;
 import com.google.common.io.Resources;

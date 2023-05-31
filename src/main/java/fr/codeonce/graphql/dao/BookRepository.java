@@ -1,7 +1,8 @@
-package pl.marcinkowalczyk.graphql.examples.dao;
+package fr.codeonce.graphql.dao;
 
 import org.springframework.stereotype.Repository;
-import pl.marcinkowalczyk.graphql.examples.model.Book;
+
+import fr.codeonce.graphql.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;
